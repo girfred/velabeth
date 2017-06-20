@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 30d4722c49e78d241a0a4e2742b02eb6
+timeCreated: 1495151254
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BotaoJogar: {instanceID: 0}
+  - BotaoOpcoes: {instanceID: 0}
+  - BotaoSair: {instanceID: 0}
+  - BarraVolume: {instanceID: 0}
+  - CaixaModoJanela: {instanceID: 0}
+  - Resolucoes: {instanceID: 0}
+  - Qualidades: {instanceID: 0}
+  - BotaoVoltar: {instanceID: 0}
+  - BotaoSalvarPref: {instanceID: 0}
+  - textoVol: {instanceID: 0}
+  - TexturaCreditos: {instanceID: 0}
+  - TexturaFundosMenu: {fileID: 2800000, guid: eb12f60678a0e764c8114cfe9bdf7e45, type: 3}
+  - TexturaGraficos: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
